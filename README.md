@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Brain MRI Tumor Segmentation — Otsu vs Sauvola
 📌 Objective
 
@@ -41,7 +40,3 @@ Adaptive thresholding handles intensity variation better.
 📌 Conclusion
 
 Adaptive thresholding (Sauvola) provides better segmentation in MRI images with uneven intensity distribution compared to global thresholding (Otsu).
-
-=======
-# DLMI_1_CS79
->>>>>>> 742473bbac31c6a2229b7b73138f3528659d1fe4
